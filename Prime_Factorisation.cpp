@@ -85,5 +85,11 @@ int main()
         cout << x << " ";
     cout << "\n";
 
+    fact=Sing_Fact(60);
+    cout << "60: ";
+    for(auto x:fact)
+        cout << x << " ";
+    cout << "\n";
+
     return 0;
 }
