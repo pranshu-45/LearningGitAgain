@@ -80,7 +80,7 @@ int main()
     }
 
     vector<int> fact=Sing_Fact(49);
-    cout << "45: ";
+    cout << "49: ";
     for(auto x:fact)
         cout << x << " ";
     cout << "\n";
