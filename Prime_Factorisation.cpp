@@ -1,4 +1,6 @@
 #include <bits/stdc++.h>
+#include <iostream>
+#include <string> 
 using namespace std;
 
 vector<int> Sing_Fact(int A)
